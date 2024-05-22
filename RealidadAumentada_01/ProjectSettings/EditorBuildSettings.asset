@@ -5,8 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/imageeTarget.unity
+    guid: 466b3a47504bda241a2d9425eaa97a0b
+  - enabled: 1
+    path: Assets/Scenes/ImAGETarget 1.unity
+    guid: e2d1ad8503c176f4a81cec2c154ae392
   m_configObjects:
     EasyAR.Settings: {fileID: 11400000, guid: 18673fb5290066840bddd89ee052898b, type: 2}
