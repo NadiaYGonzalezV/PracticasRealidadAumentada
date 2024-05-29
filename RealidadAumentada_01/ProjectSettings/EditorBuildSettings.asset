@@ -14,8 +14,11 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ImAGETarget 1.unity
     guid: e2d1ad8503c176f4a81cec2c154ae392
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/imaGETRackerAdrian.unity
     guid: b28b526916e0ad7478c377b804b7d30f
+  - enabled: 1
+    path: Assets/Scenes/escanersuperficie.unity
+    guid: 3033bd2514e14fe4796d6bfde3d59238
   m_configObjects:
     EasyAR.Settings: {fileID: 11400000, guid: 18673fb5290066840bddd89ee052898b, type: 2}
